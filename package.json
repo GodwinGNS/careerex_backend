@@ -1,0 +1,19 @@
+{
+  "name": "school-app",
+  "version": "1.0.0",
+  "description": "school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodwinGNS/careerex_backend.git"
+  },
+  "author": "Godwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodwinGNS/careerex_backend/issues"
+  },
+  "homepage": "https://github.com/GodwinGNS/careerex_backend#readme"
+}
